@@ -1,12 +1,14 @@
 
 
-
-.parent{
-    display:grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 5px;
-
+.container{
+    float: left;
+    align-items: left;
 
 }
 
+.image{
+    float: left;
+    padding: 5px;
+
+}
 
