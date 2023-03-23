@@ -68,3 +68,50 @@ h2{
 
 
 
+
+.slider{
+    width: 800px;
+    height:400px;
+    background: url();
+    margin: 100px auto;
+    animation: slide 20s infinite;
+
+
+
+
+}
+
+@keyframes slide{
+    
+    25%{
+        background: url(S1.png);
+    }
+
+    50%{background: url(S2.png);
+    }
+
+    75%{background: url(S3.png);
+
+    }
+
+    100%{background: url(S4.png);
+
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
